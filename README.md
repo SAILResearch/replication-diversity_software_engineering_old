@@ -1,6 +1,6 @@
 # Replication Package for "Representativeness in Software Engineering Research" (Technical Report)
 
-**Please consider checking the latest version of this work at**  
+** **Please consider checking the latest version of this work at** **  
 **https://github.com/SAILResearch/replication-diversity_software_engineering**
 
 Meiyappan Nagappan, Thomas Zimmermann, Christian Bird  
